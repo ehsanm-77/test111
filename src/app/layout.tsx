@@ -47,6 +47,7 @@ export default function RootLayout({
         <footer className="border-t bg-white text-sm text-center py-4 text-gray-500">
           <p>© {new Date().getFullYear()} Branch. همه حقوق محفوظ است.</p>
         </footer>
+        <div>asdasdas</div>
       </body>
     </html>
   );
